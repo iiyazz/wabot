@@ -1,0 +1,558 @@
+{
+  "sticker": {},
+  "database": {
+    "coba saja": {
+      "key": {
+        "remoteJid": "120363025754691445@g.us",
+        "fromMe": false,
+        "id": "BAE52151F5619B8E_IRPAN"
+      },
+      "message": {
+        "buttonsMessage": {
+          "text": "\n\t\n===>Hallo ɐupɹıɐs sǝʇıɐʍɐu snqɐɹpo ini semua menu YazBot<==\n\n_*GROUP MENU*_\n• bot [untuk ngobrol sama bot, ex : .bot hallo]\n• getpp [tag]\n• afk [Alasan]\n• linkgroup\n• ephemeral [option]\n• setppgc [image]\n• setname [text]\n• setdesc [text]\n• group [option]\n• editinfo [option]\n• add @user\n• kick @user\n• hidetag [text]\n• tagall [text]\n• promote @user\n• demote @user\n• vote [text]\n• devote\n• upvote\n• cekvote\n• hapusvote\n• antilink\n• welcome\n• listonline\n\n_*DOWNLOADER MENU*_\n• ytmp3 [url]\n• ytmp4 [url]\n• umma [url]\n• twitter [url]\n• mediafire [url]\n• gitclone [url]\n• facebook [url]\n• tiktok [url]\n\n_*SEARCH MENU*_\n• searchgc [query]\n• play [query]\n• yts [query]\n• google [query]\n• gimage [query]\n• pinterest [query]\n• wallpaper [query]\n• wikimedia [query]\n• ytsearch [query]\n• ringtone [query]\n• pinterest2 [query]\n• mcpedl [query]\n• happymod [query]\n\n_*FUN MENU*_\n• fakemore\n• quotes\n• halah\n• hilih\n• huluh\n• heleh\n• holoh\n• jadian\n• jodohku\n• delttt\n• tictactoe\n• family100\n• tebak [option]\n\n_*PRIMBON MENU*_\n• nomorhoki\n• artimimpi\n• artinama\n• ramaljodoh\n• ramaljodohbali\n• suamiistri\n• ramalcinta\n• cocoknama\n• pasangan\n• jadiannikah\n• sifatusaha\n• rezeki\n• pekerjaan\n• nasib\n• penyakit\n• tarot\n• fengshui\n• haribaik\n• harisangar\n• harisial\n• nagahari\n• arahrezeki\n• peruntungan\n• weton\n• karakter\n• keberuntungan\n• memancing\n• masasubur\n• zodiak\n• shio\n\n_*CONVERTER MENU*_\n• toimage\n• removebg\n• sticker\n• emojimix\n• tovideo\n• togif\n• tourl\n• tovn\n• tomp3\n• toaudio\n\n_*OTHER MENU*_\n• chord\n• fliptext\n• toletter\n• del\n• image\n• kalkulator\n• ping\n• owner\n• delete\n• infochat\n• quoted\n• setcmd\n• listcmd\n• delcmd\n• lockcmd\n• addmsg\n• listmsg\n• getmsg\n• delmsg\n• servermc\n\n_*ISLAM MENU*_\n• iqra\n• hadist\n• alquran\n• juzamma\n\n_*VOICE CHANGER MENU*_\n• bass\n• blown\n• deep\n• earrape\n• fast\n• fat\n• nightcore\n• reverse\n• robot\n• slow\n• tupai\n\n_*STIKER MENU*_\n• sticker\n• gura\n• patrik\n• stikeranime\n• doge\n• bucinstick\n• semoji\n• emojimix\n• smeme\n\n_*MAKER MENU*_\n• nulis\n• 3dbox\n• drapwater\n• lion2\n• papercut\n• transformer\n• herryp\n• neondevil\n• 3dstone\n• 3davengers\n• thunder\n• window\n• graffiti\n• pornhub\n• blackping\n• glitch\n• glitch2\n• glitch3\n• 3dspace\n• lion\n• 3dneon\n• neon\n• greenneon\n• bokeh\n• hollographic\n• bear\n• wolf\n• joker\n• dropwater\n• neonlight\n• natural\n• carbon\n• pencil\n• candy\n• christmas\n• 3dchristmas\n• sparklechristmas\n• deepsea\n• scifi\n• rainbow\n• waterpipe\n• spooky\n• circuit\n• discovery\n• metalic\n• fiction\n• demon\n• berry\n• thunder\n• magma\n• 3dstone\n• neonlight\n• glitch\n• harrypotter\n• brokenglass\n• papercut\n• watercolor\n• multicolor\n• neondevil\n• underwater\n• graffitibike\n• snow\n• cloud\n• honey\n• ice\n• fruitjuice\n• biscuit\n• wood\n• chocolate\n• strawberry\n• matrix\n• blood\n• toxic\n• lava\n• rock\n• bloodglas\n• hallowen\n• darkgold\n• wicker\n• firework\n• skeleton\n• blackpink\n• sand\n• glue\n• 1917\n• leaves\n\n_*ANIME MENU*_\n• manga\n• quotesanime\n• wallnime\n• waifu\n• husbu\n• loli\n• shota\n\n_*OWNER MENU*_\n• sendsessi\n• chat [option]\n• join [link]\n• leave\n• block @user\n• unblock @user\n• bcgroup [text]\n• bcall [text]\n• setppbot [image]\n• setbio [text]\n• listpc\n• listgc\n• addprem\n• dellprem\n• ban\n• unban\n\n*Jangan Lupa Donasinya*",
+          "contentText": "\n\t\n===>Hallo ɐupɹıɐs sǝʇıɐʍɐu snqɐɹpo ini semua menu YazBot<==\n\n_*GROUP MENU*_\n• bot [untuk ngobrol sama bot, ex : .bot hallo]\n• getpp [tag]\n• afk [Alasan]\n• linkgroup\n• ephemeral [option]\n• setppgc [image]\n• setname [text]\n• setdesc [text]\n• group [option]\n• editinfo [option]\n• add @user\n• kick @user\n• hidetag [text]\n• tagall [text]\n• promote @user\n• demote @user\n• vote [text]\n• devote\n• upvote\n• cekvote\n• hapusvote\n• antilink\n• welcome\n• listonline\n\n_*DOWNLOADER MENU*_\n• ytmp3 [url]\n• ytmp4 [url]\n• umma [url]\n• twitter [url]\n• mediafire [url]\n• gitclone [url]\n• facebook [url]\n• tiktok [url]\n\n_*SEARCH MENU*_\n• searchgc [query]\n• play [query]\n• yts [query]\n• google [query]\n• gimage [query]\n• pinterest [query]\n• wallpaper [query]\n• wikimedia [query]\n• ytsearch [query]\n• ringtone [query]\n• pinterest2 [query]\n• mcpedl [query]\n• happymod [query]\n\n_*FUN MENU*_\n• fakemore\n• quotes\n• halah\n• hilih\n• huluh\n• heleh\n• holoh\n• jadian\n• jodohku\n• delttt\n• tictactoe\n• family100\n• tebak [option]\n\n_*PRIMBON MENU*_\n• nomorhoki\n• artimimpi\n• artinama\n• ramaljodoh\n• ramaljodohbali\n• suamiistri\n• ramalcinta\n• cocoknama\n• pasangan\n• jadiannikah\n• sifatusaha\n• rezeki\n• pekerjaan\n• nasib\n• penyakit\n• tarot\n• fengshui\n• haribaik\n• harisangar\n• harisial\n• nagahari\n• arahrezeki\n• peruntungan\n• weton\n• karakter\n• keberuntungan\n• memancing\n• masasubur\n• zodiak\n• shio\n\n_*CONVERTER MENU*_\n• toimage\n• removebg\n• sticker\n• emojimix\n• tovideo\n• togif\n• tourl\n• tovn\n• tomp3\n• toaudio\n\n_*OTHER MENU*_\n• chord\n• fliptext\n• toletter\n• del\n• image\n• kalkulator\n• ping\n• owner\n• delete\n• infochat\n• quoted\n• setcmd\n• listcmd\n• delcmd\n• lockcmd\n• addmsg\n• listmsg\n• getmsg\n• delmsg\n• servermc\n\n_*ISLAM MENU*_\n• iqra\n• hadist\n• alquran\n• juzamma\n\n_*VOICE CHANGER MENU*_\n• bass\n• blown\n• deep\n• earrape\n• fast\n• fat\n• nightcore\n• reverse\n• robot\n• slow\n• tupai\n\n_*STIKER MENU*_\n• sticker\n• gura\n• patrik\n• stikeranime\n• doge\n• bucinstick\n• semoji\n• emojimix\n• smeme\n\n_*MAKER MENU*_\n• nulis\n• 3dbox\n• drapwater\n• lion2\n• papercut\n• transformer\n• herryp\n• neondevil\n• 3dstone\n• 3davengers\n• thunder\n• window\n• graffiti\n• pornhub\n• blackping\n• glitch\n• glitch2\n• glitch3\n• 3dspace\n• lion\n• 3dneon\n• neon\n• greenneon\n• bokeh\n• hollographic\n• bear\n• wolf\n• joker\n• dropwater\n• neonlight\n• natural\n• carbon\n• pencil\n• candy\n• christmas\n• 3dchristmas\n• sparklechristmas\n• deepsea\n• scifi\n• rainbow\n• waterpipe\n• spooky\n• circuit\n• discovery\n• metalic\n• fiction\n• demon\n• berry\n• thunder\n• magma\n• 3dstone\n• neonlight\n• glitch\n• harrypotter\n• brokenglass\n• papercut\n• watercolor\n• multicolor\n• neondevil\n• underwater\n• graffitibike\n• snow\n• cloud\n• honey\n• ice\n• fruitjuice\n• biscuit\n• wood\n• chocolate\n• strawberry\n• matrix\n• blood\n• toxic\n• lava\n• rock\n• bloodglas\n• hallowen\n• darkgold\n• wicker\n• firework\n• skeleton\n• blackpink\n• sand\n• glue\n• 1917\n• leaves\n\n_*ANIME MENU*_\n• manga\n• quotesanime\n• wallnime\n• waifu\n• husbu\n• loli\n• shota\n\n_*OWNER MENU*_\n• sendsessi\n• chat [option]\n• join [link]\n• leave\n• block @user\n• unblock @user\n• bcgroup [text]\n• bcall [text]\n• setppbot [image]\n• setbio [text]\n• listpc\n• listgc\n• addprem\n• dellprem\n• ban\n• unban\n\n*Jangan Lupa Donasinya*",
+          "footerText": "© YazBot",
+          "buttons": [
+            {
+              "buttonId": "menu",
+              "buttonText": {
+                "displayText": "BACK TO MENU"
+              },
+              "type": "RESPONSE"
+            }
+          ],
+          "headerType": "EMPTY"
+        }
+      },
+      "participant": "6285931985007@s.whatsapp.net"
+    },
+    "coba": {
+      "key": {
+        "remoteJid": "120363025754691445@g.us",
+        "fromMe": false,
+        "id": "BAE584BB2FF6E92F_IRPAN"
+      },
+      "message": {
+        "conversation": "Berhasil menambahkan pesan di list pesan sebagai 'coba saja'\n    \nAkses dengan .getmsg coba saja\n\nLihat list Pesan Dengan .listmsg"
+      },
+      "participant": "6285931985007@s.whatsapp.net"
+    },
+    "kasmah": {
+      "key": {
+        "remoteJid": "120363043172916554@g.us",
+        "fromMe": false,
+        "id": "FD6E5C85D5215AA3F40DE921D88DEC25"
+      },
+      "message": {
+        "conversation": "INI CONTOH PESAN BUAT DI SAVE"
+      },
+      "participant": "6282288082120@s.whatsapp.net"
+    },
+    "senin": {
+      "key": {
+        "remoteJid": "120363043172916554@g.us",
+        "fromMe": false,
+        "id": "211593063EB98C5A9F41C0BB83BB4916"
+      },
+      "message": {
+        "conversation": "*SELAMAT PAGI SEMUA, KETEMU LAGI DI HARI SENIN, JANGAN LUPA SARAPAN DAN JANGAN LUPA DAILY BUAT YANG SAYANG SAMA DIAS BIAR MINGGU DEPAN GAK DENDA, DAN BUAT YANG DENDA HARI INI SEBENTAR DI TAG YA, TOLONG PERHATIKAN TAG KALIAN, KALO ADA 2 TAG BERARTI DENDA KALIAN ADA 2, JADI DI HARAP LUNAS SEMUA.NYA, GAK LUNAS SAMPE HARI MINGGU TANPA KONFIRM MOHON MAAF LAHIR DAN BATIN AJA YA DARI KAMI KALO SUDAH GAK DISINI, TERIMAKASIH*"
+      },
+      "participant": "6287762753821@s.whatsapp.net"
+    },
+    "jumat": {
+      "key": {
+        "remoteJid": "120363043172916554@g.us",
+        "fromMe": false,
+        "id": "154745B92250BDE33785478671441070"
+      },
+      "message": {
+        "conversation": "*SELAMAT PAGI SEMUA KETEMU LAGI DI HARI JUMAT, JANGAN LUPA SARAPAN DAN JANGAN LUPA DAILY, BUAT YANG SAYANG SAMA DIAS BISA DI CEK.RICEK KEAKTIFAN.NYA YA, INGAT KEAKTIFAN KITA 55/MINGGU GAK PAKE DISKON, DAN YANG PUNYA UTANG DENDA WAR KALO SENIN SUDAH GAK DISINI MOHON MAAF LAHIR DAN BATIN AJA YA DARI KAMI, TERIMAKASIH*"
+      },
+      "participant": "6287762753821@s.whatsapp.net"
+    },
+    "rules asos": {
+      "key": {
+        "remoteJid": "120363043172916554@g.us",
+        "fromMe": false,
+        "id": "A6C4396414E2959E648D12C81208634A"
+      },
+      "message": {
+        "conversation": "*THE UNKNOWNS RULES*\n\n☛  Minimal Keaktifan di atas 66/ MINGGU. Dibawah MINIMUM  harus nyalakan STARHOPE 1X Tidak pakai nego(Jika Tidak Ada Izin Di Awal Minggu).\n\n  ☛ Jika ada masalah saat login, mohon izin ke admin ASOS masing-masing agar tidak terkena spam tag dan didenda.\n\n ☛ Harus Berpartisipasi dalam Perang Asos Setiap Sabtu & Minggu.  (19.30-20.30 WIB) Jika tidak ikut war, WAJIB MEMBELI Kesempatan Material yang tidak terpakai(Ini Wajib Bayar,mau kalian Izin atau Gak izin apabila gak ikut Perang pasir wajib bayar).\n\n  ☛Jangan skip Tag admin biar gak ketinggalan info penting..\n\n☛  Denda War dan Keaktifan hanya di tag di grup saja.Tidak Akan di Japri..\n\n ☛ Bila Ditag seminggu tidak ada respon auto kick..\n\n ☛ Tidak membahas hal-hal sensitif seperti agama, suku, ras, politik dan peminjaman uang Di Dalam Asos.\n\n ☛ KERJASAMA TIM DIPERLUKAN..\n\n ☛ Tidak BAPERAN\n☛Tidak Ada UTANG\".\n\n *☛DAN PALING PENTING ADMIN SELALU BENAR☚*"
+      },
+      "participant": "6287762753821@s.whatsapp.net"
+    },
+    "u3": {
+      "key": {
+        "remoteJid": "120363043172916554@g.us",
+        "fromMe": false,
+        "id": "77CF7507A971C2A57F1EBB2BDED57CBC"
+      },
+      "message": {
+        "conversation": "*THE UNKNOWNS RULES*\n\n☛  Minimal Keaktifan di atas 55/ MINGGU. Dibawah MINIMUM  harus nyalakan STARHOPE 1X Tidak pakai nego(Jika Tidak Ada Izin Di Awal Minggu).\n\n  ☛ Jika ada masalah saat login, mohon izin ke admin ASOS masing-masing agar tidak terkena spam tag dan didenda.\n\n ☛ Harus Berpartisipasi dalam Perang Asos Setiap Sabtu & Minggu.  (19.30-20.30 WIB) Jika tidak ikut war, WAJIB MEMBELI Kesempatan Material yang tidak terpakai(Ini Wajib Bayar,mau kalian Izin atau Gak izin apabila gak ikut Perang pasir wajib bayar).\n\n  ☛Jangan skip Tag admin biar gak ketinggalan info penting..\n\n☛  Denda War dan Keaktifan hanya di tag di grup saja.Tidak Akan di Japri..\n\n ☛ Bila Ditag seminggu tidak ada respon auto kick..\n\n ☛ Tidak membahas hal-hal sensitif seperti agama, suku, ras, politik dan peminjaman uang Di Dalam Asos.\n\n ☛ KERJASAMA TIM DIPERLUKAN..\n\n ☛ Tidak BAPERAN\n☛Tidak Ada UTANG\".\n\n *☛DAN PALING PENTING ADMIN SELALU BENAR☚*"
+      },
+      "participant": "6287762753821@s.whatsapp.net"
+    }
+  },
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "62856972339105@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": false,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateDocument": true,
+      "templateLoc": false
+    },
+    "6287739432928@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": false,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateDocument": true,
+      "templateLoc": false
+    },
+    "6282288082120@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": false,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateDocument": true
+    },
+    "6285931985007@s.whatsapp.net": {
+      "status": 0,
+      "autobio": true,
+      "templateImage": false,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateDocument": true
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "6285811597011@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "191"
+    },
+    "62856972339105@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "62895803147537@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281359028868@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283150688618@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283898696418@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285776350886@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285802029555@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285781287795@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285752599164@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282149032954@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282244116735@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287883231222@s.whatsapp.net": {
+      "afkTime": 1657856803464,
+      "afkReason": "lanjut mukbang 99 gorengan"
+    },
+    "6285225844774@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283844296132@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "62895701030088@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283168387510@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "628816971839@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287835778891@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285245082786@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282131505343@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6289505867098@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285642412922@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "628812791626@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281370785765@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285559221285@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287839001616@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282175108956@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287828072014@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285735418772@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287834459559@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285715654641@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281261169263@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283856965768@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283162297324@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281328015602@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281348215030@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281775077401@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285703280743@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285762781626@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282179855636@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281299467833@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6288239293561@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285697233910@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287739432928@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282118611599@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282284515654@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282288082120@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287841903677@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285961485844@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283852039472@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281225666720@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285348418354@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287888845241@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285931985007@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281226122566@s.whatsapp.net": {
+      "afkTime": 1668490281199,
+      "afkReason": "lagi AEFKA"
+    },
+    "6285731529037@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281283773805@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285233261471@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6289696391754@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287786715526@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282219650997@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287891162560@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285880008286@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283856685120@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281216114727@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "628159864977@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "628970377775@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285735629581@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "628971588077@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283111778065@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287762753821@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285794169266@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282384455789@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285789809025@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281357029997@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285961577557@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285940483259@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "62895803352294@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281330381610@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281549364606@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285864367594@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285787076151@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281916981914@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282267354683@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6289603679808@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282191767389@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281935156796@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285220665280@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282218082787@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6289636997095@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285936553766@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287816581771@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283114979986@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282339889612@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6288226706626@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6285797946632@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6287882316846@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6282158941161@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6283895084949@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    },
+    "6281227987574@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": ""
+    }
+  }
+}
