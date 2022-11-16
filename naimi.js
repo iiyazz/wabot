@@ -1377,7 +1377,7 @@ if (args[0] === "lagu") {
     let anu = await fetchJson('https://fatiharridho.github.io/tebaklagu.json')
     let result = anu[Math.floor(Math.random() * anu.length)]
     let msg = await naimi.sendMessage(m.chat, {audio: { url: result.link_song }, mimetype:'audio/mpeg', ptt:true }, {quoted:m})
-    naimi.sendText(m.chat, `Lagu Tersebut Adalah Lagu dari?\n\nArtist : ${result.artist}\nWaktu : 60s`, msg).then(() => {
+    naimi.sendText(m.chat, `Lagu Tersebut Berjudul?\n\nArtist : ${result.artist}\nWaktu : 60s`, msg).then(() => {
     tebaklagu[m.sender.split('@')[0]] = result.jawaban.toLowerCase()
     })
     await sleep(60000)
